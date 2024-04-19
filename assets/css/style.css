@@ -1,0 +1,75 @@
+.bg-verde {
+    background-color: #28A745;
+}
+
+.logo {
+    width: 86pt;
+}
+
+.container {
+    display: flex;
+    justify-content: center;    
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16pt;
+    line-height: 18pt;
+}
+
+.texto-p1 {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 0;
+    padding-top: 8pt;
+}
+
+.texto-p2 {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 10pt;
+    font-weight: 300;
+    padding-left: 5pt;
+    line-height: 0;
+}
+
+.fa-location-dot {
+    color: #707070;
+    font-size: 8pt;
+    line-height: 0;
+}
+
+.linea {
+    border: 1px solid #DDDDDD;
+    margin-top: 10pt;
+}
+
+.precio1 {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #707070;
+    font-size: 12pt;
+}
+
+.precio2 {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #28A745;
+    font-size: 16pt;
+    font-weight: bold;
+    padding-left: 11pt;
+}
+
+.logo-black {
+    width: 82pt;
+}
+
+.texto-f {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 12pt;
+    font-weight: 300;
+}
